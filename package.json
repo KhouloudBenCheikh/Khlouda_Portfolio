@@ -1,0 +1,39 @@
+{
+  "name": "esportfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "framer-motion": "^10.18.0",
+    "next": "^13.5.6",
+    "nodemailer": "^6.9.13",
+    "react": "^18.2.0",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.22.3",
+    "react-tsparticles": "^2.9.3",
+    "redux": "^5.0.1",
+    "swiper": "^9.4.0",
+    "tailwind-scrollbar": "^3.0.4",
+    "tsparticles": "^2.9.3",
+    "typed.js": "^2.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "eslint": "8.41.0",
+    "eslint-config-next": "13.4.3",
+    "file-loader": "^6.2.0",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}
