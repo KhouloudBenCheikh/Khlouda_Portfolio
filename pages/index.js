@@ -6,7 +6,6 @@ import Avatar from '../components/Avatar';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
 import Button from '../components/Button';
-import Socials from '../components/socials';
 import Link from 'next/link'; // Import Link from next/link
 
 const Home = () => {
