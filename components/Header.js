@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import Socials from "../components/socials";
+import Socials from "../components/Socials";
 import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
 
