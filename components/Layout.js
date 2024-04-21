@@ -12,7 +12,7 @@ const Layout = ({ children, logo }) => {
       <Head>
         <title>🦋 Khlouda Portfolio</title>
         {/* Add other meta tags, links, or scripts here */}
-        <link rel="icon" href= "../public/logo.png" />
+        <link rel="icon" href= "./logo.png" />
       </Head>
       <div className={'page bg-site text-white bg-cover bg-no-repeat font-sora relative'}>
         <Nav />

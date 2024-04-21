@@ -14,21 +14,21 @@ export const workSlider = {
       images: [
         {
           title: 'Inside Neural Network',
-          path: 'project1.png',
+          path: './project1.png',
           githubUrl: 'https://github.com/KhouloudBenCheikh/Neural-Network-Analysis',
         },
         {
           title: 'LLM Blending',
-          path: 'llm.png',
+          path: './llm.png',
           githubUrl: 'https://github.com/KhouloudBenCheikh/LLM-Blending-Biomedical-Field',
         },
         {
           title: 'CXR Captioning',
-          path: 'chest.png',
+          path: './chest.png',
         },
         {
           title: 'Caries Detection & Segmentation',
-          path: 'caries.png',
+          path: './caries.png',
         },
       ],
     },
@@ -36,20 +36,20 @@ export const workSlider = {
       images: [
         {
           title: 'Cells Segmentation',
-          path: 'project3.png',
+          path: './project3.png',
           githubUrl: 'https://github.com/KhouloudBenCheikh/Cells_Segmentation'
         },
         {
           title: 'Octo-B - ICCHP18 Conference',
-          path: 'icchp.png',
+          path: './icchp.png',
         },
         {
           title: 'Teeth Generation',
-          path: 'teethg.png',
+          path: './teethg.png',
         },
         {
           title: 'Brain Tumor Segmentation',
-          path: 'brain.png',
+          path: './brain.png',
           githubUrl:'https://github.com/KhouloudBenCheikh/Brain-Tumor-Classification-using-CNN',
         },
       ],
@@ -58,21 +58,21 @@ export const workSlider = {
     images: [
     {
       title: 'VR Mini Golf',
-      path: 'vr_mini.png',
+      path: './vr_mini.png',
     },
   
   {
     title: 'Burger Website',
-    path: 'web.png',
+    path: './web.png',
     githubUrl: 'https://github.com/KhouloudBenCheikh/AI_Burger_Website',
   },
   {
     title: 'Bed Availability PRediction',
-    path: 'bed.png',
+    path: './bed.png',
   },
   {
     title: 'Personal Assistant for Autistic Children',
-    path: 'autistoy.png',
+    path: './autistoy.png',
   },
 ],
 },
