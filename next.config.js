@@ -1,9 +1,13 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
- // reactStrictMode: true,
-  //swcMinify: true,
-  output: 'export',
-  basePath: "/",
-}
+// next.config.js
 
-module.exports = nextConfig
+const nextConfig = {
+  // reactStrictMode: true,
+  // swcMinify: true,
+  output: 'export',
+  basePath: '', // Set basePath to an empty string
+  images: {
+    unoptimized: true, // Disable Image Optimization
+  },
+};
+
+module.exports = nextConfig;
